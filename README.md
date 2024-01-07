@@ -1,2 +1,2 @@
 # Random Proverbs App
-- ##  This project is a challenge project for CodeCademy
+- ##  This project is a porofolio project for CodeCademy
